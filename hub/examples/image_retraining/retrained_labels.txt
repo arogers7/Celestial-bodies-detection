@@ -1,10 +1,11 @@
+elliptical
 mercury
-mars
 neptune
+moon
+saturn
+earth
 spiral
+mars
 jupiter
 uranus
-elliptical
-earth
 venus
-saturn
